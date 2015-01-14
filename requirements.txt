@@ -1,0 +1,6 @@
+argparse==1.2.1
+django
+ipython==2.3.1
+itsdangerous==0.24
+requests==2.4.3
+wsgiref==0.1.2
